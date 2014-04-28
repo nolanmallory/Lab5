@@ -4,6 +4,8 @@ Lab5
 ####Functionality
 Required and A functionality completed, no "cool" program written though
 
+1st Program Demo on FPGA done in class with Dr. Neeble.
+
 ###Discussion of 1st Program Operation
 The program essentially loaded 8 into the accumulator and increased it until it reached 0. Each value was outputted to port 3 and the program ended in an infinite loop if the number is not zero.
 
